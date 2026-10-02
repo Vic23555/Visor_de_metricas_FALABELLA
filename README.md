@@ -134,7 +134,7 @@ La documentación podrá incluir:
 * Objetivo
 * Resultado esperado
 
-![Medidas](Medidas.png)  ![Medidas2](Medidas2.png)
+![Medidas](Medidas3.png)  ![Medidas2](Medidas4.png)
 
 ### Power Query
 
