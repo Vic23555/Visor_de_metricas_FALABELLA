@@ -14,7 +14,7 @@ El proyecto presenta información mediante un visor interactivo diseñado para f
 
 ### Vista principal
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 > Las imágenes mostradas en este repositorio representan capturas del sistema y se utilizan con fines de demostración y portafolio.
 
