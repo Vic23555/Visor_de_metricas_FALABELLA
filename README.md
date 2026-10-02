@@ -113,25 +113,6 @@ Entre los elementos de análisis se pueden incluir:
 
 ---
 
-## Capturas del proyecto
-
-Las principales vistas del sistema se documentarán en la carpeta:
-
-`Screenshots/`
-
-Ejemplo:
-
-```text
-Screenshots/
-│
-├── dashboard.png
-├── filtros.png
-├── indicadores.png
-└── detalle.png
-```
-
----
-
 ## Documentación
 
 La documentación técnica del proyecto se organizará de la siguiente manera:
@@ -149,6 +130,8 @@ La documentación podrá incluir:
 * Descripción
 * Objetivo
 * Resultado esperado
+
+![Dashboard](Medidas.png)
 
 ### Power Query
 
